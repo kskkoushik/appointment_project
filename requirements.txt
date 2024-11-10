@@ -3,4 +3,4 @@ djangorestframework
 pymongo 
 dnspython
 django-cors-headers
-unicorn
+gunicorn
