@@ -59,9 +59,7 @@ MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    "https://safe-github-dld2.vercel.app",  # Replace with your actual Vercel URL
-]
+CORS_ALLOW_ALL_ORIGINS = True
 
 ROOT_URLCONF = "appointment_project.urls"
 
