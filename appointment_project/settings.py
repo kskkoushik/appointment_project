@@ -28,7 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "appointment-project-0vlk.onrender.com",
-    "safe-github-dld2.vercel.app/"
+    "safe-github-dld2.vercel.app/",
+    "safemax-assignment.vercel.app/"
 ]
 
 
